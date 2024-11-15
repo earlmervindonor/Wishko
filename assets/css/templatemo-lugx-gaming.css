@@ -746,7 +746,7 @@ Banner Style
 
 .main-banner .right-image span.price {
   position: absolute;
-  right: 100px;
+  right: 20px;
   top: 20px;
   border-radius: 25px;
   background-color: #008af8;
